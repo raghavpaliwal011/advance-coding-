@@ -1,0 +1,1 @@
+# all the things are done in the terminal and then deleated as said in the video
